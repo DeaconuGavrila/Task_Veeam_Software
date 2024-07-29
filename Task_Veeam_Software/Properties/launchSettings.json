@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Task_Veeam_Software": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Work\\Test1\" \"C:\\Work\\Test2\" 60 \"C:\\Work\\Test.txt\"\r\n"
+    }
+  }
+}
